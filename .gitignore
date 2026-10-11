@@ -1,0 +1,27 @@
+﻿# Datasets and generated data
+data/
+*.zip
+*.7z
+*.rar
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# IDE
+.vscode/
+.idea/
